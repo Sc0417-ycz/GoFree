@@ -1,0 +1,26 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/CityPage",
+    "pages/CityContentPage",
+    "pages/myStrategy",
+    "pages/otherStrategy",
+    "pages/login",
+    "pages/register",
+    "pages/trackPage",
+    "pages/welcome",
+    "pages/addStrategyPage",
+    "pages/StrategyPage",
+    "pages/TestPage",
+    "pages/myLikePage",
+    "pages/myLikeContentPage",
+    "pages/photoPage",
+    "pages/myPhoto",
+    "pages/addPhotoPage",
+    "pages/settingsPage",
+    "pages/WaterFlowInfo",
+    "pages/myFavoritePage",
+    "pages/myFavoriteContentPage",
+    "pages/otherPhoto"
+  ]
+}
